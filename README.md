@@ -127,3 +127,5 @@ Note: The current implementation uses rule-based detection. For production, inte
 
 MIT License
 
+# solar-dashboard
+solar dashboard
